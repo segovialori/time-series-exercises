@@ -1,0 +1,3 @@
+![Image of Moon Across Time](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1f%2Fce%2Fcf%2F1fcecfbe6eedcecc613ad9f45a103ac7.jpg&imgrefurl=https%3A%2F%2Fcz.pinterest.com%2Fpin%2F562598178438771969%2F&tbnid=puiZDGi18oGk0M&vet=12ahUKEwjl27CSyPvvAhVJRc0KHWnXAEcQMyhQegUIARCgAQ..i&docid=WASWd5gjNNhjiM&w=1524&h=664&itg=1&q=time%20lapse&ved=2ahUKEwjl27CSyPvvAhVJRc0KHWnXAEcQMyhQegUIARCgAQ)
+# Time Series:  Analyzing, Modeling, Forecasting Temporal Events
+> "Time is not a line, but a series of now-points." [Taisen Deshimaru]https://en.wikipedia.org/wiki/Taisen_Deshimaru)

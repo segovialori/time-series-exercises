@@ -101,7 +101,7 @@ def get_germany():
     """
     Returns a dataframe containing Open Power Systems data for Germany.
     """
-    response = req.get("https://raw.githubusercontent.com/jenfly/opsd/master/opsd_germany_daily.csv")
+    response = requests.get("https://raw.githubusercontent.com/jenfly/opsd/master/opsd_germany_daily.csv")
     csv = StringIO(response.text)
     
     return pd.read_csv(csv)
